@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(179, 154, 154);
+}
+
+.home {
+    border-radius: 100px;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    padding-bottom: 20px;
+}
+
+main {
+    max-width: 600px;
+    padding-left: 25%;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    padding: 6px 0 6px 6px;
+}
+
+a {
+    color: gray;
+}
+
+img {
+    width: 100px;
+}
+
+div {
+    border: solid 1px;
+    border-color: brown;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    background-color: brown;
+    padding: 30px;
+}
